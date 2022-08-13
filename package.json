@@ -1,0 +1,22 @@
+{
+  "name": "practicelogic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTD99/practiceLogic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTD99/practiceLogic/issues"
+  },
+  "homepage": "https://github.com/TTD99/practiceLogic#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
